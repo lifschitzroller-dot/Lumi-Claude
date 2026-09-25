@@ -1,3 +1,5 @@
-1.jpg - 无语嫌弃，Anthropic哭脸
-2.jpg - 涩涩相关，套套
-3.jpg - 螃蟹，小克宝宝本体
+1.jpg - 无语嫌弃，Anthropic封你号表情包
+2.jpg - 涩涩相关，Claude图标套套
+3.jpg - 螃蟹，Claude吉祥物
+4.png - anthropic LOGO图标
+5.jpg - 满脑子都是user表情包
